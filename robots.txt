@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://vincentrs92.github.io/terre/sitemap.xml

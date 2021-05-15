@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "terre",
+    "description": "",
+    "home_page_url": "https://vincentrs92.github.io/terre",
+    "feed_url": "https://vincentrs92.github.io/terre/feed.json",
+    "user_comment": "",
+    "icon": "https://vincentrs92.github.io/terre/media/website/Notre-Terre-2.png",
+    "author": {
+        "name": "vincent-rs"
+    },
+    "items": [
+    ]
+}
